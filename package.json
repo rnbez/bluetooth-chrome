@@ -3,9 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "better-react-spinkit": "^2.0.0-6",
     "classnames": "^2.2.5",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
+    "react-copy-to-clipboard": "^5.0.0",
     "react-dom": "^15.5.4",
     "tachyons": "^4.7.1",
     "underscore": "^1.8.3"

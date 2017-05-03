@@ -15,11 +15,10 @@ class Welcome extends Component {
           </h1>
         </header>
 
-        <div className="ph3 tc mv6">
+        <div className="ph3 tc mt7 mt9-l">
           <h1 className="f6 fw6 ttu tracked black-60">Find your device</h1>
           <a
-            className="f4 link dim br2 ba ph3 pv2 mb2 dib black"
-            href="#0"
+            className="f4 link dim br2 ba ph3 pv2 mt2 dib black"
             onClick={handleScanClick}
           >
             Scan
